@@ -1,0 +1,1 @@
+"#The program prompts the user to enter ten names of US Presidents separated by comma, and to write a word 'history' at the end. In the process the program receives all the ten names and the word 'history' as a string, sprlit it usign the comma as a regex and prints the names in reverse order." 
